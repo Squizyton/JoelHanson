@@ -4,7 +4,7 @@
 
 
 
-Hello! My name is Joel Hanson and I am of course a coder. 
+Hello! My name is Joel Hanson and I am a **Game Programmer**
 
 🐼 Known Languagues: C#, C++, HTML, CSS
 

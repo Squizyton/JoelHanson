@@ -5,10 +5,10 @@
 
 
 Hello! My name is Joel Hanson and I am of course a coder. 
-*Known Languagues: C#, C++, HTML, CSS
-*Game Engines: Unity, Unreal, Monogame
-*Currently Employed by Tevolve as a game programmer
-*Other Projects: Check Repository :)
+* Known Languagues: C#, C++, HTML, CSS
+* Game Engines: Unity, Unreal, Monogame
+* Currently Employed by Tevolve as a game programmer
+* Other Projects: Check Repository :)
 
 
 

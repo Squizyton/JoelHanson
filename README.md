@@ -12,7 +12,7 @@ Hello! My name is Joel Hanson and I am a **Game Programmer**
 
 🍎 Currently Employed by Tevolve as a game programmer
 
-📚 Other Projects: Check Repository :)
+📚 Other Projects: [Check Repository 🤔](https://github.com/Squizyton?tab=repositories "Repositories")
 
 🕹️ Would like to make a game with someone. A twin stick shooter sounds fun or anything really!
 
